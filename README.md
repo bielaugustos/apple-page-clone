@@ -24,9 +24,9 @@ I created this project with the specific goal of helping beginners grasp the fun
 
 ## Deploy
 
-This project was deployed using the [Vercel]([https://pages.github.com](https://vercel.com/docs)) service.
+This project was deployed using the [Vercel]([https://pages.github.com](https://vercel.com/docs) service.
 
-You can visit through [this link]([https://bielaugustos.github.io/apple-page-clone/](https://apple-page-clone-bielaugustos-projects.vercel.app)).
+You can visit through [this link]([https://bielaugustos.github.io/apple-page-clone/](https://apple-page-clone-bielaugustos-projects.vercel.app).
 
 ## Licença
 
